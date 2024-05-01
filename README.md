@@ -1,4 +1,4 @@
-### E aí, tranquilo? 👋
+### E aí? 👋
 
 ### Interessado em Big Data, Data Science e Inteligência Artificial!
 
