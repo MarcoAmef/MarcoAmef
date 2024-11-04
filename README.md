@@ -6,6 +6,7 @@
 | LinkedIn | E-mail | 
 | - | - |
 | [in/marcoamef](https://www.linkedin.com/in/marcoamef/) | [marco.2003br@gmail.com](mailto:marco.2003br@gmail.com) |
+
 ---
 ### Technologies I feel comfortable using:
 ![Static Badge](https://img.shields.io/badge/python-%23ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=%23000000
