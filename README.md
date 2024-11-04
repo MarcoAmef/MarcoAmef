@@ -1,9 +1,9 @@
 ### Hi, nice to see you here! 👋
 
-## Passionate about IA and its aspects! <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
+## Passionate about IA and its aspects! 
 
 #### You can reach me here:
-| LinkedIn | E-mail |
+| LinkedIn | E-mail | <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
 | - | - |
 | [in/marcoamef](https://www.linkedin.com/in/marcoamef/) | [marco.2003br@gmail.com](mailto:marco.2003br@gmail.com) |
 ---
