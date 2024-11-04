@@ -1,6 +1,6 @@
 ### Hi, nice to see you here! 👋
 
-## Passionate about IA and its aspects!
+## Passionate about IA and its aspects! <img src="https://giphy.com/gifs/garfield-cat-coffee-pzryvxGeykOxeC0fWb" width="50">
 
 #### You can reach me here:
 | LinkedIn | E-mail |
