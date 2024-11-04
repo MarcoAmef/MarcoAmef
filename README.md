@@ -1,4 +1,4 @@
-### E aí, nice to see you here! 👋
+### Hi, nice to see you here! 👋
 
 ## Passionate about IA and its aspects!
 
