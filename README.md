@@ -1,4 +1,4 @@
-### E aí, how nice of you to drop by! 👋
+### E aí, nice to see you here! 👋
 
 ## Passionate about IA and its aspects!
 
