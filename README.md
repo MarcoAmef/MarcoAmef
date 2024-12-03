@@ -1,22 +1,13 @@
-### Hi, nice to see you here! 👋
+<h1 align="center">Hi 👋, I'm Marco</h1>
+<h3 align="center">Passionate about IA and its aspects!</h3>
 
-## Passionate about IA and its aspects! 
+- 📫 How to reach me **marco.2003br@gmail.com**
 
-#### You can reach me here: <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
-| LinkedIn | E-mail | 
-| - | - |
-| [in/marcoamef](https://www.linkedin.com/in/marcoamef/) | [marco.2003br@gmail.com](mailto:marco.2003br@gmail.com) |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marcoamef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcoamef" height="30" width="40" /></a>
+<a href="https://kaggle.com/marcoamef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marcoamef" height="30" width="40" /></a>
+</p>
 
----
-### Technologies I feel comfortable using:
-| Area | Technologies |
-| - | - |
-| Programing Languages | ![Static Badge](https://img.shields.io/badge/python-%23ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=%23000000) |
-| Machine Learning and AI | ![Static Badge](https://img.shields.io/badge/scikit--learn-%23ffffff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/keras-%23ffffff?style=for-the-badge&logo=keras&logoColor=white&labelColor=%23000000)|
-| Data Storage | ![Static Badge](https://img.shields.io/badge/postgresql-%23ffffff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/mongodb-%23ffffff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/sqlalchemy-%23ffffff?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=%23000000)|
-| Big Data | ![Static Badge](https://img.shields.io/badge/databricks-%23ffffff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/apache%20spark-%23ffffff?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/apache%20parquet-%23ffffff?style=for-the-badge&logo=apacheparquet&logoColor=white&labelColor=%23000000) |
-| Data analysis and visualization | ![Static Badge](https://img.shields.io/badge/pandas-%23ffffff?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/seaborn-%23ffffff?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/plotly-%23ffffff?style=for-the-badge&logo=plotly&logoColor=white&labelColor=%23000000)|
-| Statistics | ![Static Badge](https://img.shields.io/badge/matplotlib-%23ffffff?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/sympy-%23ffffff?style=for-the-badge&logo=sympy&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/scipy-%23ffffff?style=for-the-badge&logo=scipy&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/numpy-%23ffffff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23000000)|
-| Testing | ![Static Badge](https://img.shields.io/badge/jester-%23ffffff?style=for-the-badge&logo=jester&logoColor=white&labelColor=%23000000) |
-| Version control | ![Static Badge](https://img.shields.io/badge/git-%23ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/trello-%23ffffff?style=for-the-badge&logo=trello&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/overleaf-%23ffffff?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=%23000000) |
-| Presentation | ![Static Badge](https://img.shields.io/badge/canva-%23ffffff?style=for-the-badge&logo=canva&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/latex-%23ffffff?style=for-the-badge&logo=latex&logoColor=white&labelColor=%23000000) |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
