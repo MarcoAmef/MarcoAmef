@@ -1,22 +1,42 @@
-### Hi, nice to see you here! 👋
+# 👋 Hi, I'm Marco Estrada!
 
-## Passionate about IA and its aspects! 
+I'm passionate about **Artificial Intelligence (AI)** and its various subfields. I have a strong foundation in **Machine Learning**, **Data Science**, and **Big Data Engineering**, and I constantly strive to stay updated with the latest developments in these areas.
 
-#### You can reach me here: <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
-| LinkedIn | E-mail | 
-| - | - |
-| [in/marcoamef](https://www.linkedin.com/in/marcoamef/) | [marco.2003br@gmail.com](mailto:marco.2003br@gmail.com) |
+## 📧 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/marcoamef/)
+- 📧 marco.2003br@gmail.com
+
+## 💻 Technologies I Work With
+I am proficient in a wide range of technologies, including:
+
+- 🐍 **Python**
+- 🤖 **scikit-learn**
+- 🧠 **Keras**
+- 🗄️ **PostgreSQL**
+- 🐱 **MongoDB**
+- 🔗 **SQLAlchemy**
+- 🌐 **Databricks**
+- ⚡ **Apache Spark**
+- 📦 **Apache Parquet**
+- 📊 **Pandas**
+- 📈 **Seaborn**
+- 📊 **Plotly**
+- 🧮 **Matplotlib**
+- 🔢 **NumPy**
+- 🧪 **SciPy**
+- 🎭 **Jupyter Notebooks**
+- 💻 **Git**
+- 🗂️ **Trello**
+- 📝 **Overleaf**
+- 🎨 **Canva**
+- 🖋️ **LaTeX**
+
+## 🚀 My Goals & Aspirations
+I am deeply interested in **AI** and aspire to leverage cutting-edge technologies to develop impactful solutions in **Machine Learning**, **Data Science**, and **Big Data Engineering**.
+
+## 🎯 Let's Connect!
+If you're looking for collaboration opportunities, mentorship, or just want to chat about technology, feel free to reach out!
 
 ---
-### Technologies I feel comfortable using:
-| Area | Technologies |
-| - | - |
-| Programing Languages | ![Static Badge](https://img.shields.io/badge/python-%23ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=%23000000) |
-| Machine Learning and AI | ![Static Badge](https://img.shields.io/badge/scikit--learn-%23ffffff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/keras-%23ffffff?style=for-the-badge&logo=keras&logoColor=white&labelColor=%23000000)|
-| Data Storage | ![Static Badge](https://img.shields.io/badge/postgresql-%23ffffff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/mongodb-%23ffffff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/sqlalchemy-%23ffffff?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=%23000000)|
-| Big Data | ![Static Badge](https://img.shields.io/badge/databricks-%23ffffff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/apache%20spark-%23ffffff?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/apache%20parquet-%23ffffff?style=for-the-badge&logo=apacheparquet&logoColor=white&labelColor=%23000000) |
-| Data analysis and visualization | ![Static Badge](https://img.shields.io/badge/pandas-%23ffffff?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/seaborn-%23ffffff?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/plotly-%23ffffff?style=for-the-badge&logo=plotly&logoColor=white&labelColor=%23000000)|
-| Statistics | ![Static Badge](https://img.shields.io/badge/matplotlib-%23ffffff?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/sympy-%23ffffff?style=for-the-badge&logo=sympy&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/scipy-%23ffffff?style=for-the-badge&logo=scipy&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/numpy-%23ffffff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23000000)|
-| Testing | ![Static Badge](https://img.shields.io/badge/jester-%23ffffff?style=for-the-badge&logo=jester&logoColor=white&labelColor=%23000000) |
-| Version control | ![Static Badge](https://img.shields.io/badge/git-%23ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/trello-%23ffffff?style=for-the-badge&logo=trello&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/overleaf-%23ffffff?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=%23000000) |
-| Presentation | ![Static Badge](https://img.shields.io/badge/canva-%23ffffff?style=for-the-badge&logo=canva&logoColor=white&labelColor=%23000000) ![Static Badge](https://img.shields.io/badge/latex-%23ffffff?style=for-the-badge&logo=latex&logoColor=white&labelColor=%23000000) |
+
+💜 **Black & Purple are my favorite colors!** Feel free to explore my work, and let's create amazing things together. 💜
