@@ -8,9 +8,9 @@ I'm passionate about **Artificial Intelligence (AI)** and its various subfields.
 - 📧 marco.2003br@gmail.com
 
 ## 💻 Technologies I Work With
-I am proficient in a wide range of technologies, including:
+I am proficient in a wide range of technologies, including: <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
 
-- 🐍 **Python**<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
+- 🐍 **Python**
 - 🤖 **scikit-learn**
 - 🧠 **Keras**
 - 🗄️ **PostgreSQL**
