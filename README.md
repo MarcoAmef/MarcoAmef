@@ -11,7 +11,7 @@
 
 ## 💻 Technologies I Work With  
 
-### **Programming Languages**  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
+### **Programming Languages**  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="250">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Data Science & Machine Learning**  
