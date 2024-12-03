@@ -3,14 +3,14 @@
 I'm passionate about **Artificial Intelligence (AI)** and its various subfields. I have a strong foundation in **Machine Learning**, **Data Science**, and **Big Data Engineering**, and I constantly strive to stay updated with the latest developments in these areas.
 
 
-## 📧 How to Reach Me <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
+## 📧 How to Reach Me 
 - [LinkedIn](https://www.linkedin.com/in/marcoamef/)
 - 📧 marco.2003br@gmail.com
 
 ## 💻 Technologies I Work With
 I am proficient in a wide range of technologies, including:
 
-- 🐍 **Python**
+- 🐍 **Python**<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
 - 🤖 **scikit-learn**
 - 🧠 **Keras**
 - 🗄️ **PostgreSQL**
