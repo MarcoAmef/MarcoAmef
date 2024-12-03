@@ -9,16 +9,15 @@
 
 ---
 
-## 💻 Technologies I Work With  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
+## 💻 Technologies I Work With  
 
-### **Programming Languages**  
+### **Programming Languages**  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg2bHd3MXE0Y29yaGEyam1ucTE2anhhMnp5N3QyMmwzd284Y2pmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.gif" width="150">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Data Science & Machine Learning**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-9E4A56?style=for-the-badge&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3C4A6D?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3C4A6D?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 
 ### **Big Data & Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
