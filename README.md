@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Marco Estrada!  
-✨ Passionate about Artificial Intelligence and Technology ✨  
+# 👋 Oioi  
+✨ AI, Math and Science ✨  
 
 ---
 
@@ -17,12 +17,10 @@
 ### **Data Science & Machine Learning**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-9E4A56?style=for-the-badge&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3C4A6D?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3C4A6D?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **Big Data & Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6B4D4B?style=for-the-badge&logoColor=white)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)  ![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-1E2A47?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6B4D4B?style=for-the-badge&logoColor=white)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)  ![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-1E2A47?style=for-the-badge&logo=apache-spark&logoColor=white)  
 
 ### **Tools & Workflow**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -32,6 +30,6 @@
 ---
 
 ## 🚀 My Goals & Aspirations  
-I am deeply interested in **AI**, **Machine Learning**, and **Big Data Engineering**. I aim to create impactful solutions using cutting-edge technologies and contribute to innovative projects.  
+I am deeply interested in **AI** and **Machine Learning**. I aim to create impactful solutions using cutting-edge technologies and contribute to innovative projects.  
 
 ---
