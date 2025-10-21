@@ -53,11 +53,3 @@
 Sou apaixonado por **Ciência de Dados**, **Engenharia de Dados** e **Inteligência Artificial**.  
 Atualmente, desenvolvo pipelines de dados em nuvem (Azure e AWS), modelos de machine learning e projetos de análise preditiva. Busco sempre unir **ciência, tecnologia e impacto real**, participando de iniciativas que transformem dados em conhecimento e inovação.  
 
----
-
-## 📜 Certificações  
-- **Microsoft Certified:** Azure Data Fundamentals (DP-900)  
-- **AWS Academy Graduate:** Introduction to Cloud - Semester 1  
-- **Banco de Dados SQL do Zero ao Avançado** – Udemy  
-- **Git + GitHub Actions for CI/CD** – Udemy  
-- **The Complete Hands-On Introduction to Apache Airflow 3** – Udemy  
